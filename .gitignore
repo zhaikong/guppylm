@@ -36,7 +36,6 @@ ehthumbs.db
 Desktop.ini
 
 # ── IDE / Editor ────────────────────────────────────────────
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -47,9 +46,10 @@ Desktop.ini
 *.sublime-workspace
 
 # ── Secrets ──────────────────────────────────────────────────
-.env
 
 # ── Logs & temp ─────────────────────────────────────────────
 *.log
 *.tmp
 *.bak
+config.bat
+node_modules

@@ -1,5 +1,8 @@
 """Entry point for: python -m guppylm"""
 
+import utils.http_session
+import utils.transport
+import utils.session
 import os
 import sys
 
